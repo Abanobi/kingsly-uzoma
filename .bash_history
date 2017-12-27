@@ -69,3 +69,36 @@ git commit -m "i am kingsley2
 git commit -m "i am kingsley"
 clear
 clear
+git init
+status
+git status
+git add success.txt
+git commit -m 
+git commit -m" i am kingsley"
+git add success.txt
+git status
+git commit -m" i love success"
+git log
+git add success.txt
+git status
+git add  
+git log
+git init
+git status
+git add .bash_history
+git commit -m"I AM SUCCESS"
+git log
+git add .bash_history
+git status
+git commit -m"I AM abanobi success"
+git log
+git add .bash_history
+git commit -m"love is good"
+git add .bash_history
+git commit -m"love is good"
+git show HEAD
+git checkout HEAD 
+git diff bash_history .bash
+git diff bash_history .bash_history
+clear
+git add success.txt
